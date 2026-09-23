@@ -1,5 +1,13 @@
 # Predictive Maintenance System
 
+## 🚀 Live Demo
+
+**Live Website:** https://predictive-maintenance-system-eta.vercel.app/
+
+**API Documentation:** https://predictive-maintenance-system-4jdr.onrender.com/docs
+
+**GitHub:** https://github.com/gowthammadagoni/predictive-maintenance-system
+
 An end-to-end Machine Learning application that predicts the failure risk of industrial machines using sensor data such as temperature, vibration, pressure, RPM, and current.
 
 The system uses a Random Forest machine learning model for prediction, FastAPI for the backend REST API, and React.js for the frontend interface.
